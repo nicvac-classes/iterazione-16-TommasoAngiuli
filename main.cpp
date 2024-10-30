@@ -16,7 +16,7 @@ int main()
             max = numero;
         }
     }
-    cout << "il numero massimo è " << numero << endl;
+    cout << "il numero massimo è " << max << endl;
 }
 
 //LEGGERE LE ISTRUZIONI NEL FILE README.md
